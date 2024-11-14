@@ -33,7 +33,7 @@ DRK-RAGNA
 ### 🔐 Generate Pair Code For Session
 
 #### PAIRING SERVER 
-<a href="https://drk-tech-1.onrender.com/" target="_blank">
+<a href="https://drk-tech-2.onrender.com/#" target="_blank">
   <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
