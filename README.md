@@ -24,7 +24,7 @@ DRK-RAGNA
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/Dark1016/DRK-RAGNA/fork">
+<a href="https://github.com/Bot-hostin/DRK-RAGNA-1.0/fork">
   <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
